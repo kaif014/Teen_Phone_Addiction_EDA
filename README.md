@@ -5,7 +5,9 @@ This project explores **teen phone addiction** patterns using an exploratory dat
 The analysis focuses on identifying trends, correlations, and behavioral patterns in smartphone usage among teenagers, and how these habits may affect sleep, academic performance, and overall phone dependency.
 
 ## Dataset
-**Source:** Teen_Phone_Addiction_Dataset [https://www.kaggle.com/datasets/khushikyad001/teen-phone-addiction-and-lifestyle-survey]
+**Source:** [Teen_Phone_Addiction_Dataset](https://www.kaggle.com/datasets/khushikyad001/teen-phone-addiction-and-lifestyle-survey)
+
+
 **File:** `teen_phone_addiction_dataset.csv`
 
 **Key Features:**
@@ -77,7 +79,8 @@ Findings can be valuable for parents, educators, and policymakers in developing 
 - **Libraries:** Pandas, NumPy, Matplotlib, Seaborn
 - **Environment:** Jupyter Notebook
 
-## Author
-**Shaik Mohammed Kaif**  
- Email: [kaifshaik1817@gmail.com]  
- LinkedIn: [www.linkedin.com/in/mohammed-kaif-shaik]
+## Author  
+Shaik Mohammed Kaif
+
+📫 [Mail](mailto:kaifshaik1817@gmail.com) |
+🔗 [LinkedIn](https://www.linkedin.com/in/mohammed-kaif-shaik)
